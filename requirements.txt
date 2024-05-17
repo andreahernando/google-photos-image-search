@@ -1,0 +1,6 @@
+torch
+pillow
+nltk
+google-auth-oauthlib
+google-auth
+requests
